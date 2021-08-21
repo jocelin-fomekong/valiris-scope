@@ -1,0 +1,34 @@
+{
+  "perimeters": [
+    {
+      "id": 1,
+      "name": "CMR",
+      "nbCompanies": 50,
+      "nbEmployees": 10,
+      "payroll": "SAGE_CMR"
+    },
+     {
+      "id": 2,
+      "name": "SEN",
+      "nbCompanies": 10,
+      "nbEmployees": 50,
+      "payroll": "SAGE_SEN"
+    },
+     {
+      "id": 3,
+      "name": "CIV",
+      "nbCompanies": 5,
+      "nbEmployees": 100,
+      "payroll": "SAGE_CIV"
+    }
+  ],
+  "scopes": [
+    {
+      "id": 1,
+      "name": "CMR",
+      "nbCompanies": 50,
+      "nbEmployees": 10,
+      "erpSource": []
+    }
+  ]
+}
